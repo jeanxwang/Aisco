@@ -1,0 +1,6 @@
+module aisco.donation.tfbank{
+    requires aisco.donation.core;
+    exports aisco.donation.tfbank;
+    requires java.logging;
+    requires payment.page.core;
+}
