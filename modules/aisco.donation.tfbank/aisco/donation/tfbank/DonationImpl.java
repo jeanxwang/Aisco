@@ -32,7 +32,7 @@ public class DonationImpl extends DonationComponent {
     public void addDonation(){
     	donationList.add(new DonationImpl("Harry", "harry@hogwarts.com", "+62822 4571 4677", 1000000, "Transfer Bank", "36726638", "BCA"));
         donationList.add(new DonationImpl("Hermione", "hermione@hogwarts.com", "+62813 3366 1800", 750000, "Transfer Bank", "53688256", "BCA"));
-        donationList.add(new DonationImpl("Ron", "ron@hogwarts.com", "+62811 6002 5156", 500000, "Transfer Bank", "SeaBank"));
+        donationList.add(new DonationImpl("Ron", "ron@hogwarts.com", "+62811 6002 5156", 500000, "Transfer Bank", "22572800", "SeaBank"));
     }
     
     @Override
